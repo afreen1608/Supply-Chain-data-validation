@@ -1,6 +1,5 @@
 # Supply-chain-data-validation
 AI based Project for data validation and standardization in supply chain systems.
-Perfect! Here’s a summary you can use for your README.md file:
 
 Overview
 
